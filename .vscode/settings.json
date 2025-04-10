@@ -1,6 +1,6 @@
 {
     "cmake.debugConfig": {
-        "cwd": "${workspaceFolder}/windows/bin",
+        "cwd": "${workspaceFolder}/workspace",
     },
     "files.associations": {
         "algorithm": "cpp",
